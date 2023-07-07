@@ -1,3 +1,9 @@
+Reactjs| NodeJs|MongoDB\
+This application enable the users for managing
+their personal notes\
+Users can add,delete and edit there personal
+notes according to there needs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
